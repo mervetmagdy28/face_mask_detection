@@ -2,15 +2,5 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4967e518-b2aa-4f11-a1e3-e29fa71bb18f](https://github.com/mervetmagdy28/face_mask_detection/assets/98427363/f543e83c-c653-4fc3-8e3b-81414ace7263)
