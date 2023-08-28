@@ -1,5 +1,5 @@
-# Face Mask Detection Flutter 
-# App README
+# Face Mask Detection Flutter App
+# README
 
 ## Welcome to the Face Mask Detection Flutter App! This app utilizes machine learning to detect whether individuals in a given image are wearing face masks or not. The app employs the TensorFlow Lite package for running the machine learning model, the Camera package for capturing images in real-time, and the Image Picker package for selecting images from the device's gallery.
 
