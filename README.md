@@ -1,5 +1,3 @@
-
-
 ##Face Mask Detection Flutter 
 ##App README
 
